@@ -29,7 +29,7 @@ Q) What is difference between Nexus repo and GitHub repo ?
 Nexus Setup
 =============
 
-Git Repo : https://github.com/kumarmoger/Nexus/blob/main/Nexus-setup-Docker.md
+Git Repo : https://github.com/kumarmoger/Sonar-Nexus/blob/main/Nexus-setup/Nexus-setup-Docker.md
 
 ================================
 Working with Nexus Repository
